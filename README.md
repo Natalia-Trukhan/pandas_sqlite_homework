@@ -24,5 +24,5 @@ The analysis generates three summary DataFrames rounded to 2 decimal places:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Natalia-Trukhan/pandas_sqlite_homework.git
    cd pandas_sqlite_homework
